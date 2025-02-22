@@ -1,5 +1,7 @@
-## Hi there 👋
 
+### Hi, I'm Marat!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&layout=compact)
 <!--
 **Rigbir/Rigbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
