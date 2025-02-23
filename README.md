@@ -1,14 +1,19 @@
 
 ## Hi, I'm Marat!
 
-I am software engineer with a deep love for programming and problem-solving 🔥. I enjoy tackling a wide range of projects across various languages and technologies ❤️. Whether it's creating new tools, optimizing existing solutions, or diving into complex challenges, I’m committed to seeing projects through from start to finish 🚀. I’m always on the lookout for like-minded enthusiasts who share the drive for learning and building innovative solutions 👀.
+I am software engineer with a deep love for programming and problem-solving. I enjoy tackling a wide range of projects across various languages and technologies ❤️. Whether it's creating new tools, optimizing existing solutions, or diving into complex challenges, I’m committed to seeing projects through from start to finish 🚀. I’m always on the lookout for like-minded enthusiasts who share the drive for learning and building innovative solutions.
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.brezin@yandex.ru) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rigbir) [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/istup25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.brezin@yandex.ru)
 
 ## 🚀 Languages and Tools I Use:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/assembly-%23DDDDDD.svg?style=for-the-badge&logo=gnu&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ## 📊 GitHub Stats:
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Makefile,QMake&card_width=495"/>
+</p>
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Makefile,QMake&card_width=495)
+-->
