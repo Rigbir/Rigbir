@@ -1,6 +1,7 @@
 
 ## Hi, I'm Marat!
 
+I am software engineer with a deep love for programming and problem-solving 🔥. I enjoy tackling a wide range of projects across various languages and technologies ❤️. Whether it's creating new tools, optimizing existing solutions, or diving into complex challenges, I’m committed to seeing projects through from start to finish 🚀. I’m always on the lookout for like-minded enthusiasts who share the drive for learning and building innovative solutions 👀.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.brezin@yandex.ru) 
@@ -11,7 +12,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Makefile,QMake&card_width=495)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rigbir&icon=0&color=0)](https://visitcount.itsvg.in)
-
