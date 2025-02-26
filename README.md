@@ -11,6 +11,6 @@ I am software engineer with a deep love for programming and problem-solving. I e
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Makefile,QMake&card_width=495)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false)  <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Makefile,QMake)
 
