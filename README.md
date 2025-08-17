@@ -17,8 +17,13 @@ I am software engineer with a deep love for programming and problem-solving. I e
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigbir&langs_count=10&layout=compact&theme=tokyonight&hide=Makefile,Qmake)
 -->
 
+<!--
 ![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/dracula/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/dracula/3-stats.svg)
+-->
+
+![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Rigbir/Rigbir/main/profile-summary-card-output/nord_dark/3-stats.svg)
 
 <!-- OLD DESIGN
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rigbir&theme=tokyonight&hide_border=false)  <br/>
